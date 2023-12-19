@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+akinator
+requests
+googlesearch-python
+icrawler
